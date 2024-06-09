@@ -1,0 +1,11 @@
+.env
+.cache
+.conda
+.nv
+.oh-my-zsh
+.vscode-server
+CompA
+CompA-dataset
+ComputeCache
+miniconda3
+generated-data

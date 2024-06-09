@@ -1,0 +1,1 @@
+python3 cli_inference.py --ckpt_path /home/l1lyzhang/salmonn_v1.pth --whisper_path /home/l1lyzhang/SALMONN/whisper-large-v2 --beats_path /home/l1lyzhang/BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt2.pt --vicuna_path /home/l1lyzhang/SALMONN/vicuna-13b-v1.1
