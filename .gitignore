@@ -1,6 +1,7 @@
 .env
 .cache
 .conda
+.config
 .nv
 .oh-my-zsh
 .vscode-server
