@@ -13,6 +13,8 @@ BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt2.pt
 salmonn_v1.pth
 Generation/generated-data/
 Captioning-Datasets/
+.bash_logout
+.bashrc
 .gitconfig
 .lesshst
 .profile
