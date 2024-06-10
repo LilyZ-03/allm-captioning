@@ -13,3 +13,13 @@ BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt2.pt
 salmonn_v1.pth
 Generation/generated-data/
 Captioning-Datasets/
+.gitconfig
+.lesshst
+.profile
+.shell.pre-oh-my-zsh
+.wget-hsts
+.zcompdump
+.zcompdump-gnn-5.8.1
+.zcompdump-gnn-5.8.1.zwc
+.zsh_history
+.zshrc
